@@ -1,0 +1,7 @@
+@-moz-document domain("nitrotype.com")
+{
+  body
+  {
+    transform: rotate(90deg);
+  }
+}
